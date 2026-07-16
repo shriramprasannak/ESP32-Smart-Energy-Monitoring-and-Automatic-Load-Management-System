@@ -1,0 +1,11 @@
+Component,Quantity
+ESP32 DevKit V1,1
+SSD1306 OLED Display (I2C),1
+Potentiometer,2
+Relay Module,1
+Piezo Buzzer,1
+Green LED,1
+Yellow LED,1
+Red LED,1
+220 Ω Resistor,3
+Jumper Wires,As required
