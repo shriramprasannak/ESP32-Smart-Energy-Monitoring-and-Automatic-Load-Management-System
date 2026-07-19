@@ -108,6 +108,14 @@ The complete Wokwi circuit design is shown below.
 
 ---
 
+## 🏗️ System Architecture
+
+The system architecture below illustrates how the ESP32 continuously monitors electrical parameters through the connected sensors, processes the measured data, and calculates voltage, current, power, and energy consumption. Based on predefined threshold values and load priorities, the ESP32 automatically controls the relay module to manage connected loads. Real-time system information is displayed on the OLED display, while energy data can also be transmitted for remote monitoring, enabling efficient energy management and automatic load control.
+
+![System Architecture](System_Architecture.png)
+
+---
+
 ## 📄 Schematic Diagram
 
 The complete wiring documentation is available here.
